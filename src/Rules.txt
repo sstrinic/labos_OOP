@@ -1,0 +1,20 @@
+
+###########################################
+
+	Drag race against Toyota GR
+
+You have chosen your car already.
+Win gives you 20 points,
+lose gives you 5 points.
+Cost of upgrades:
+	engine         50 points
+	air intake     10 points
+	air exhaust    10 points
+
+1) Race against bot
+2) Upgrade
+3) Show details
+-1) Exit game
+
+###########################################
+Your selection: 
